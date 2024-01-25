@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/.idea.LearningYaroslav.iml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../:\UnityProjects\LearningYaroslav\.idea\.idea.LearningYaroslav\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
